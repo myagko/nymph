@@ -4,7 +4,7 @@
 </div>
 
 ## Installation
-You just have to import nymph.yml in ~/.config/alacritty/alacritty.yml.
+You just have to import `nymph.yml` in `~/.config/alacritty/alacritty.yml`.
 ```yml
 import:
   - ~/.config/alacritty/nymph.yml
