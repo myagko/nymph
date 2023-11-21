@@ -1,1 +1,1 @@
-Alacritty theme
+gtk
