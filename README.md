@@ -1,1 +1,1 @@
-gtk
+alacritty
