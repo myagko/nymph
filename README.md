@@ -1,6 +1,6 @@
 # Preview
 <div align="center">
-    <img src="alacritty_preview.png"> 
+    <img src="preview.png"> 
 </div>
 
 ## Installation
