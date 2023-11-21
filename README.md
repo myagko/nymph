@@ -1,7 +1,3 @@
-<p align='center'>
-    <h2 align='center'>nymph.nvim</h2>
-</p>
-
 # Preview
 <div align="center">
     <img src="src/showcase.png"> 
@@ -12,7 +8,7 @@
 Using `Lazy.nvim`:
 
 ```lua
-{'myagko/nymph.nvim', branch = 'Neovim'}
+{'myagko/nymph', branch = 'Neovim'}
 ```
 
 ## Usage
