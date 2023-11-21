@@ -1,22 +1,18 @@
 <p align='center'>
     <h2 align='center'>nymph.nvim</h2>
 </p>
-<p align='center'> A little dark, soft and pleasing theme for night owls. </p>
 
 # Preview
 <div align="center">
     <img src="src/showcase.png"> 
 </div>
 
-# Colors
-<img src="src/palette.png" alt="img">
-
 ## Instalation
 
 Using `Lazy.nvim`:
 
 ```lua
-{'myagko/nymph.nvim'}
+{'myagko/nymph.nvim', branch = 'Neovim'}
 ```
 
 ## Usage
