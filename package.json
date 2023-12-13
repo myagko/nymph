@@ -1,0 +1,36 @@
+{
+    "name": "nymph",
+    "displayName": "nymph",
+    "description": "A clean dark theme for vscode-oss based myagko's theme",
+    "publisher": "ranjan",
+    "icon": "assets/icon.svg",
+    "version": "0.1.0",
+    "repository": {
+      "type": "git",
+      "url": "https://gitlab.com/ranjan/nymph-code"
+    },
+    "keywords": [
+      "theme",
+      "dark-theme",
+      "dark",
+      "nymph",
+      "myagko",
+      "arch",
+      "linux"
+    ],
+    "engines": {
+      "vscode": "^1.85.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "nymph",
+          "uiTheme": "vs-dark",
+          "path": "./themes/nymph.json"
+        }
+      ]
+    }
+  }
