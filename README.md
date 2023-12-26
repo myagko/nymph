@@ -83,4 +83,3 @@
 # Ports
 - [Alacritty](https://github.com/myagko/nymph/tree/Alacritty)
 - [Neovim](https://github.com/myagko/nymph/tree/Neovim)
-- [GTK](https://github.com/myagko/nymph/tree/GTK)
