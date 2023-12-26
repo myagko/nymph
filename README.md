@@ -7,24 +7,6 @@
     <th>RGB</th>
 </tr>
 <tr>
-    <td><img src="src/background.png"></td>
-    <td><code>Background</code></td>
-    <td><code>#1A2023</code></td>
-    <td><code>26, 32, 35</code></td>
-</tr>
-<tr>
-    <td><img src="src/background_alt.png"></td>
-    <td><code>Lighter Background</code></td>
-    <td><code>#252B2E</code></td>
-    <td><code>37, 43, 46</code></td>
-<tr>
-<tr>
-    <td><img src="src/background_urgent.png"></td>
-    <td><code>Border</code></td>
-    <td><code>#373D40</code></td>
-    <td><code>55, 61, 64</code></td>
-</tr>
-<tr>
     <td><img src="src/red.png"></td>
     <td><code>Red</code></td>
     <td><code>#BC7171</code></td>
@@ -59,6 +41,30 @@
     <td><code>Cyan</code></td>
     <td><code>#89B7B0</code></td>
     <td><code>137, 183, 176</code></td>
+</tr>
+<tr>
+    <td><img src="src/orange.png"></td>
+    <td><code>Orange</code></td>
+    <td><code>#C99577</code></td>
+    <td><code>201, 149, 119</code></td>
+</tr>
+<tr>
+    <td><img src="src/background.png"></td>
+    <td><code>Background</code></td>
+    <td><code>#1A2023</code></td>
+    <td><code>26, 32, 35</code></td>
+</tr>
+<tr>
+    <td><img src="src/background_alt.png"></td>
+    <td><code>Lighter Background</code></td>
+    <td><code>#252B2E</code></td>
+    <td><code>37, 43, 46</code></td>
+<tr>
+<tr>
+    <td><img src="src/background_urgent.png"></td>
+    <td><code>Border</code></td>
+    <td><code>#373D40</code></td>
+    <td><code>55, 61, 64</code></td>
 </tr>
 <tr>
     <td><img src="src/foreground_alt.png"></td>
