@@ -1,6 +1,6 @@
 # Preview
 <div align="center">
-    <img src="prev.png"> 
+    <img src="shw.png"> 
 </div>
 
 ## Instalation
