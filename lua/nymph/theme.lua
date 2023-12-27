@@ -1,8 +1,6 @@
-local p = require('nymph.palette')
-local M = {}
+local T = {}
 
-function M.set_colors()
-
+function T.set_colors(p)
 	local theme = {
 		-- base highlights
 		Normal = { fg = p.fg, bg = p.bg },
@@ -267,4 +265,4 @@ function M.set_colors()
 	return theme
 end
 
-return M
+return T

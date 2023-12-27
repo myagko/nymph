@@ -1,4 +1,4 @@
-local util = {}
+local U = {}
 
 local function parse_color(color)
 	if color == nil then
@@ -15,7 +15,7 @@ local function parse_color(color)
 	return color
 end
 
-util.highlight = function(group, color)
+function U.highlight(group, color)
 	local fg = color.fg and parse_color(color.fg) or 'none'
 	local bg = color.bg and parse_color(color.bg) or 'none'
 	local sp = color.sp and parse_color(color.sp) or ''
@@ -24,4 +24,4 @@ util.highlight = function(group, color)
 	vim.api.nvim_set_hl(0, group, color)
 end
 
-return util
+return U
