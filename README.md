@@ -21,5 +21,4 @@
 
 ## Ports
 
-### Editors
 <h4><a href='https://github.com/myagko/nymph/tree/Nvim'>Neovim</a></h4>
