@@ -1,5 +1,3 @@
-# Nymph
-
 ## Colors
 
 | Preview                                              | Name              | Hex      | RGB             | HSL           |
