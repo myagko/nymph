@@ -10,6 +10,7 @@ COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
 
 
 <div align="center">
+
 | Preview                                              | Name              | Hex      | RGB             | HSL           |
 | ---------------------------------------------------- | ----------------- | -------- | --------------- | ------------- |
 | <img width="32" src='assets/background.png'/>        | Background        | `1A2023` | `26, 32, 35`    | `200, 26, 14` |
@@ -24,6 +25,7 @@ COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
 | <img width="32" src='assets/cyan.png'/>              | Cyan (Accent)     | `89B7B0` | `137, 183, 176` | `171, 25, 72` |
 | <img width="32" src='assets/blue.png'/>              | Blue              | `7C9BB4` | `124, 155, 180` | `207, 31, 71` |
 | <img width="32" src='assets/magenta.png'/>           | Magenta           | `A883A2` | `168, 131, 162` | `310, 22, 66` |
+
 </div>
 
 ## Ports
