@@ -2,15 +2,6 @@
 
 <div align="center">
 
-COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
-:--- | :---: | ---:
-</br></br>left | center | </br></br>right
-
-</div>
-
-
-<div align="center">
-
 | Preview                                              | Name              | Hex      | RGB             | HSL           |
 | ---------------------------------------------------- | ----------------- | -------- | --------------- | ------------- |
 | <img width="32" src='assets/background.png'/>        | Background        | `1A2023` | `26, 32, 35`    | `200, 26, 14` |
