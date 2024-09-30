@@ -1,11 +1,8 @@
 ## Preview
 
 <div align="center">
-    <img width="700px" src="assets/preview_1.png">
-</div>
-
-<div align="center">
-    <img width="700px" src="assets/preview_2.png">
+    <img src="assets/preview_1.png">
+    <img src="assets/preview_2.png">
 </div>
 
 ## Installation
