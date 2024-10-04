@@ -243,6 +243,19 @@ function T.set_colors(p)
 		HopUnmatched = { fg = p.fg_alt },
 		HopCursor = { bg = p.fg },
 		HopPreview = { fg = p.magenta }
+
+		-- mini.statusline: https://github.com/echasnovski/mini.nvim
+		MiniStatusLineModeNormal = { fg = p.cyan, bg = p.bg_alt },
+		MiniStatusLineModeVisual = { fg = p.yellow, bg = p.bg_alt },
+		MiniStatusLineModeInsert = { fg = p.red, bg = p.bg_alt },
+		MiniStatusLineModeReplace = { fg = p.magenta, bg = p.bg_alt },
+		MiniStatusLineModeCommand = { fg = p.blue, bg = p.bg_alt },
+		MiniStatusLineModeOther = { fg = p.green, bg = p.bg_alt },
+		MiniStatusLineDevinfo = { fg = p.fg, bg = p.bg_alt },
+		MiniStatusLineFilename = { fg = p.fg, bg = p.bg_alt },
+		MiniStatusLineFileinfo = { fg = p.fg, bg = p.bg_alt },
+		MiniStatusLineInactive = { fg = p.fg, bg = p.bg_alt },
+
 	}
 
 	vim.g.terminal_color_0 = p.bg
